@@ -1,0 +1,3 @@
+[submodule "guest_book"]
+	path = guest_book
+	url = https://github.com/poro912/guest_book.git
